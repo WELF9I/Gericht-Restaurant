@@ -1,7 +1,7 @@
 # Restaurant Landing Page
 This is a Restaurant Landing Page UI  to learn how to transform a [Figma design](https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=0%3A21) into a fully functioning website and create modern and responsive ReactJS websites.
 
-![image]("/Restaurant1.jpg')
+![image](https://github.com/user-attachments/assets/7a04d6c4-6412-4bef-88a3-d37d6dc140a9)
 
 ## Key Implementation:
 - React functional components and their reusability
